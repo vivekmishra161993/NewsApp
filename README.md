@@ -1,6 +1,10 @@
 # NewsApp
 
 NewsApp is an Android application built using Jetpack Compose. This app demonstrates a modern Android development approach, leveraging a range of libraries and tools to provide a clean, efficient, and user-friendly experience for reading news.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/29c72f90-fd3d-46e3-9cbf-749f81cbc4ed" width="500">
+  <img src="https://github.com/user-attachments/assets/e9b5a780-bbdd-4b1e-96f3-294ca8ff2f6d" width="500">
+</p>
 
 ## Features
 - Jetpack Compose for UI development
